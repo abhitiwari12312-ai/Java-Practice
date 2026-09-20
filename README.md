@@ -1,11 +1,37 @@
-# Java-Pseudocodes
-This repository contains my practice programs for Java fundamentals, including:
+# Java Programming Practice ☕
 
-  1.Loops (for, while)  
-  2. If-Else Conditions  
-  3. Arrays  
-  4. Basic Logic Building Programs  
+This repository contains my Java programming practice and problem-solving exercises.
 
-These programs are part of my learning journey as I build a strong foundation in Data Structures and Programming.
-# Author
-Abhishek Tiwari
+I am using this repository to strengthen my Java fundamentals and build a strong foundation for Data Structures and Algorithms.
+
+## 📚 Topics Covered
+
+- Java Basics
+- Conditional Statements
+- Loops
+- Arrays
+- Problem Solving
+
+## 🛠️ Technologies
+
+- Java
+- Git
+- GitHub
+
+## 🎯 Goals
+
+- Strengthen Java programming fundamentals
+- Practice problem-solving regularly
+- Prepare for Data Structures and Algorithms
+- Improve coding consistency
+
+## 📂 Repository Structure
+
+```text
+Java-Programming-Practice/
+│
+├── Basics/
+├── If-Else/
+├── Loops/
+├── Array/
+└── README.md
