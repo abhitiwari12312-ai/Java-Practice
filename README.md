@@ -1,4 +1,4 @@
-# Java Programming Practice ☕
+# Java Practice ☕
 
 This repository contains my Java programming practice and problem-solving exercises.
 
