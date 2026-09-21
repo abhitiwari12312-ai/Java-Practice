@@ -23,7 +23,7 @@ I am using this repository to strengthen my Java fundamentals and build a strong
 - Strengthen Java programming fundamentals
 - Practice problem-solving regularly
 - Prepare for Data Structures and Algorithms
-- Improve coding consistency
+
 
 ## 📂 Repository Structure
 
